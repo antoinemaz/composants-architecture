@@ -1,0 +1,6 @@
+fr\anto\service\GenericServiceV2.class
+fr\anto\service\GenericServiceImpl.class
+fr\anto\dao\GenericDao.class
+fr\anto\dao\GenericDaoImpl.class
+fr\anto\entities\Entity.class
+fr\anto\service\GenericService.class
